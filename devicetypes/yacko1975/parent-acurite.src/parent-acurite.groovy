@@ -14,7 +14,7 @@
  *
  */
 metadata {
-	definition (name: "Acurite_Reader", namespace: "yacko1975", author: "David Carter") {
+	definition (name: "parent-acurite", namespace: "yacko1975", author: "David Carter") {
         capability "Configuration"
         capability "Refresh"
 	}

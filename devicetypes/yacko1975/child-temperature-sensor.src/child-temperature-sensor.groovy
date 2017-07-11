@@ -17,11 +17,11 @@
  *    Date        Who            What
  *    ----        ---            ----
  *    2017-04-10  Dan Ogorchock  Original Creation
- *
+ *    2017-07-11  David Carter   Modify to test with locally
  * 
  */
 metadata {
-	definition (name: "Child Temperature Sensor", namespace: "ogiewon", author: "Daniel Ogorchock") {
+	definition (name: "Child Temperature Sensor", namespace: "yacko1975", author: "Daniel Ogorchock") {
 		capability "Temperature Measurement"
 //        capability "Relative Humidity Measurement"
 		capability "Sensor"
